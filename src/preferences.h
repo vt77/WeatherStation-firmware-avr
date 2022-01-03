@@ -1,0 +1,9 @@
+
+#define RFSEND_INTERVAL 20
+#define RFSEND_REPEATS 10
+
+#define RF_PIN 2
+#define TIMINGS_OSC 500
+#define NORTH_OFFSET 0
+
+#define DEVICE_ID 0xF820
